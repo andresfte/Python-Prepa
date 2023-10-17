@@ -1,0 +1,5 @@
+timestamp,humedad,temperatura,lluvia
+1697403705, 30, 45, False
+1697403729, 20, 60, True
+1697404287, 31, 55, False
+1697404326, 24, 65, True
